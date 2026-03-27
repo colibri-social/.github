@@ -2,7 +2,7 @@
 
 The **@colibri-social** organization is a community-driven effort to develop [Colibri](https://colibri.social), a next-generation social chat app built on the AT protocol, alongside further improvements to the overall ATmosphere ecosystem.
 
-Do you have a suggestion for a new feature or want to ask a question? Head to the [discussions page](https://github.com/colibri-social/colibri.social/discussions).
+Do you have a suggestion for a new feature or want to ask a question? Head to the [discussions page](https://github.com/orgs/colibri-social/discussions).
 
 You can join our adventure by becoming a contributor on any of our repositories or joining us on [Colibri](https://colibri.social/invite/1b0e708bd85c414e) itself!
 
