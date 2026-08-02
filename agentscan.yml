@@ -1,0 +1,8 @@
+version: 1
+allowed-users:
+  - colibri-release-bot
+trusted-author-associations:
+  - owner
+  - member
+auto-close: true
+honeypot: true
