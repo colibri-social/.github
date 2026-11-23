@@ -11,4 +11,4 @@ You can join our adventure by becoming a contributor on any of our repositories 
 | Repository | Description |
 | ---------- | ----------- |
 | [`colibri-social/colibri.social`](https://github.com/colibri-social/colibri.social) | Colibri is a next-generation social chat app build on the AT protocol. | 
-| [`colibri-social/appview`](https://github.com/colibri-social/appview) | The app view for the project, acting as our server and backend for the few things we cannot store on the AT protocol. |
+| [`colibri-social/api`](https://github.com/colibri-social/api) | The AppView for the project, acting as our server and backend. |
